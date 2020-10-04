@@ -109,5 +109,4 @@ p {
 
 # 결과
 
-<img width="602" alt="스크린샷 2020-10-04 오후 5 10 12" src="https://user-images.githubusercontent.com/45806836/95010462-79822280-0664-11eb-88df-ba222ecaeec3.png">
-
+<img width="538" alt="스크린샷 2020-10-04 오후 5 08 45" src="https://user-images.githubusercontent.com/45806836/95010436-450e6680-0664-11eb-8f6a-06170f5a8be5.png">
